@@ -1,0 +1,40 @@
+.container{
+    max-width: 90%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.chatgbt-sidebar{
+    margin: auto;
+}
+.carousel img{
+    height: 300px;
+    align-items: center;
+    margin: auto;
+    max-width: 86%;
+    margin-bottom: 20px;
+    border-radius: 1%;
+    margin-top: 30px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.card-img-top{
+    display: flex;
+}
+nav{
+    position: relative;
+    z-index: 10;
+    border-radius: 1%;
+    border-bottom: 15px;
+}
+.container{
+    padding-bottom: 30px;
+}
+.row{
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.card{
+    padding-bottom: 10px;
+}
