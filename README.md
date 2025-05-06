@@ -24,9 +24,8 @@ O objetivo principal deste projeto é praticar a criação de layouts responsivo
 
 Acesse a versão online do projeto através do link:
 
-👉 [https://seu-site-futebol.vercel.app](https://vercel.com/raphanikes-projects/raphaboot-io)
-
-> Substitua pelo seu link real da Vercel, se desejar.
 
 ## 📁 Estrutura do Projeto
+
+👉 [https://seu-site-futebol.vercel.app](https://vercel.com/raphanikes-projects/raphaboot-io)
 
