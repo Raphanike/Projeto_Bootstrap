@@ -27,5 +27,5 @@ Acesse a versão online do projeto através do link:
 
 ## 📁 Estrutura do Projeto
 
-👉 [https://seu-site-futebol.vercel.app](https://vercel.com/raphanikes-projects/raphaboot-io)
+👉 [https://seu-site-futebol.vercel.app](https://raphaboot-io.vercel.app/)
 
